@@ -3,4 +3,5 @@
 These are my solutions to problems on LeetCode.
 
 ## Contents
-* Arrays
+### Chapters
+* [Arrays](Arrays)
