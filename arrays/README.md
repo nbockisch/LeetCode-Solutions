@@ -5,3 +5,4 @@ This directory contains the exercises from the **Arrays** chapter of [LeetCode](
 ## Contents
 1. [Introduction](introduction)
 2. [Inserting Items Into an Array](inserting_items_into_an_array)
+3. [Deleting Items From an Array](deleting_items_from_an_array)
