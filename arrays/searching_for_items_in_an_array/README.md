@@ -4,3 +4,4 @@ This directory contains the exercises from the **Searching for Items in an Array
 
 ## Exercises
 * [Check If N and Its Double Exist](check_if_n_and_its_double_exist)
+* [Valid Mountain Array](valid_mountain_array)
