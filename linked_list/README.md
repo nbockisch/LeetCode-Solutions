@@ -1,4 +1,4 @@
-# Arrays
+# Linked List
 ## About
 This directory contains the exercises from the **Linked List** chapter of [LeetCode](https://leetcode.com/).
 

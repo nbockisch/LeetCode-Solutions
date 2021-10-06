@@ -1,4 +1,4 @@
-# Arrays
+# Graph
 ## About
 This directory contains the exercises from the **Graph** chapter of [LeetCode](https://leetcode.com/).
 
