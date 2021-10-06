@@ -1,4 +1,4 @@
-# Introduction
+# In-Place Operations
 ## About
 This directory contains the exercises from the **In-Place Operations** section of the **Arrays** chapter of [LeetCode](https://leetcode.com/).
 
