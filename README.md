@@ -6,3 +6,4 @@ These are my solutions to problems on [LeetCode](https://leetcode.com/).
 ### Chapters
 * [Arrays](arrays)
 * [Graph](graph)
+* [Linked List](linked_list)
