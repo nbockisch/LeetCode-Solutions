@@ -1,4 +1,4 @@
-# Introduction
+# Searching for Items in an Array
 ## About
 This directory contains the exercises from the **Searching for Items in an Array** section of the **Arrays** chapter of [LeetCode](https://leetcode.com/).
 

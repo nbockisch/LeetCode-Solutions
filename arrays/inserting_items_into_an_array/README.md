@@ -1,4 +1,4 @@
-# Introduction
+# Inserting Items Into an Array
 ## About
 This directory contains the exercises from the **Inserting Items Into an Array** section of the **Arrays** chapter of [LeetCode](https://leetcode.com/).
 

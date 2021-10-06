@@ -1,4 +1,4 @@
-# Introduction
+# Conclusion
 ## About
 This directory contains the exercises from the **Conclusion** section of the **Arrays** chapter of [LeetCode](https://leetcode.com/).
 
