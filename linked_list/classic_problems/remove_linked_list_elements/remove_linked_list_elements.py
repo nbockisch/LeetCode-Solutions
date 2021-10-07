@@ -17,7 +17,7 @@ class Solution:
         fast, slow = head, start
         
         # When fast pointer finds a non-val value, make it the next
-        # element in the list, skipping al val elements
+        # element in the list, skipping all val elements
         while (fast):
             if (fast.val == val):
                 fast = fast.next
