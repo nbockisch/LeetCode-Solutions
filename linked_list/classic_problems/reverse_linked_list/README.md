@@ -27,3 +27,4 @@ Output: []
 
 # Solution
 * [python (iterative solution)](reverse_linked_list_iterative.py)
+* [python (recursive solution)](reverse_linked_list_recursive.py)
