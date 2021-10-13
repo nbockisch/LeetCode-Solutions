@@ -23,7 +23,5 @@ Output: []
 * The number of nodes in the tree is in the range `[0, 2000]`.
 * `-1000 <= Node.val <= 1000`
 
-**Follow-up:** Recursive solution is trivial, could you do it iteratively?
-
 # Solution
 * [java](binary_tree_level_order_traversal.java)
