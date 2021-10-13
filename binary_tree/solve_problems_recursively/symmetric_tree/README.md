@@ -17,5 +17,8 @@ Output: false
 * The number of nodes in the tree is in the range `[1, 1000]`.
 * `-100 <= Node.val <= 100`
 
+**Follow up:** Could you solve it both recursively and iteratively?
+
 # Solution
-* [java](symmetric_tree.java)
+* [java (recursive)](symmetric_tree_recursive.java)
+* [java (iterative)](symmetric_tree_iterative.java)
