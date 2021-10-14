@@ -27,16 +27,15 @@ class Solution {
         Stack<TreeNode> node_stack = new Stack<TreeNode>();
         TreeNode cur = root;
         
-        while (cur != null || !node_stack.empty()) {
-            while (cur != null) {
+        while (!node_stack.empty() || cur != null) {
+            if (cur != null) {
                 node_stack.push(cur);
                 cur = cur.left;
+            } else {
+                cur = node_stack.pop();
+                values.add(cur.val);
+                cur = cur.right;
             }
-            
-            cur = node_stack.pop();
-            values.add(cur.val);
-            
-            cur = cur.right;
         }
         
         return values;
