@@ -26,5 +26,5 @@ Output: []
 **Follow up:** A linked list can be reversed either iteratively or recursively. Could you implement both?
 
 # Solution
-* [python (iterative solution)](reverse_linked_list_iterative.py)
-* [python (recursive solution)](reverse_linked_list_recursive.py)
+* [c++ (iterative solution)](reverse_linked_list_iterative.cpp)
+* [c++ (recursive solution)](reverse_linked_list_recursive.cpp)
