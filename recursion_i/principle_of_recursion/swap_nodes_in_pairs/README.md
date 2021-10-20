@@ -24,4 +24,4 @@ Output: [1]
 * `0 <= Node.val <= 100`
 
 # Solution
-* [c++](reverse_string.cpp)
+* [c++](swap_nodes_in_pairs.cpp)
