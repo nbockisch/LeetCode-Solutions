@@ -24,5 +24,5 @@ Output: []
 * `-1000 <= Node.val <= 1000`
 
 # Solution
-* [python (recursive)](binary_tree_level_order_recursive.py)
-* [python (iterative)](binary_tree_level_order_iterative.py)
+* [python (recursive)](binary_tree_level_order_traversal_recursive.py)
+* [python (iterative)](binary_tree_level_order_traversal_iterative.py)
