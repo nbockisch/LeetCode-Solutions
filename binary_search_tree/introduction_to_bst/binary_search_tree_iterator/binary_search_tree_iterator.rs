@@ -1,3 +1,8 @@
+/*
+ * Author: Nathan Bockisch
+ * Date: June 26, 2022
+ */
+
 use std::rc::Rc;
 use std::cell::RefCell;
 // Definition for a binary tree node.
