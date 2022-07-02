@@ -30,3 +30,4 @@ Output: [4,2,7,1,3,5]
 
 # Solution
 * [rust](insert_into_a_binary_search_tree.rs)
+* [rust (updated)](insert_into_a_binary_search_tree_updated.rs)
