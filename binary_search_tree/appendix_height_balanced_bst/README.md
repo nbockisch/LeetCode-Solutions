@@ -4,3 +4,4 @@ This directory contains the exercises from the **Appendix: Height-balanced BST**
 
 ## Exercises
 * [Balanced Binary Tree](balanced_binary_tree)
+* [Convert Sorted Array to Binary Search Tree](convert_sorted_array_to_binary_search_tree)
