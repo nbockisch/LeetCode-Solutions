@@ -2,8 +2,8 @@
  * Author: Nathan Bockisch
  * Date: July 9, 2022
  */
-// Definition for a Node.
 /*
+// Definition for a Node.
 class Node {
 public:
     int val;
@@ -24,20 +24,20 @@ public:
 
 class Solution {
 public:
-    vector<int> preorder(Node* root) {  
+    vector<int> postorder(Node* root) {
         vector<int> answer;
 
         if (root) {
-            std::stack<Node*> node_stack;
-            node_stack.push(root);
+            stack<Node *> node_stack;
 
+            node_stack.push(root);
             while (!node_stack.empty()) {
                 Node *cur = node_stack.top();
                 node_stack.pop();
-                answer.push_back(cur->val);
+                answer.insert(answer.begin(), cur->val);
 
-                for (auto child = cur->children.rbegin(); child != cur->children.rend(); child++) {
-                    node_stack.push(*child);
+                for (Node *child : cur->children) {
+                    node_stack.push(child);
                 }
             }
         }
