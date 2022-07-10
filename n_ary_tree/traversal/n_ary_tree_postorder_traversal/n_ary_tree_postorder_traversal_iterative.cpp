@@ -34,7 +34,7 @@ public:
             while (!node_stack.empty()) {
                 Node *cur = node_stack.top();
                 node_stack.pop();
-                answer.insert(answer.begin(), cur->val);
+                answer.push_back(cur->val);
 
                 for (Node *child : cur->children) {
                     node_stack.push(child);
@@ -42,6 +42,7 @@ public:
             }
         }
 
+        reverse(answer.rbegin(), answer.rend());
         return answer;
     }
 };
