@@ -9,5 +9,6 @@ These are my solutions to problems on [LeetCode](https://leetcode.com/).
 * [Binary Tree](binary_tree)
 * [Graph](graph)
 * [Linked List](linked_list)
+* [N-ary Tree](n_ary_tree)
 * [Recursion II](recursion_ii)
 * [Recursion I](recursion_i)
