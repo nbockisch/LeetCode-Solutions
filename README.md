@@ -5,6 +5,7 @@ These are my solutions to problems on [LeetCode](https://leetcode.com/).
 ## Contents
 ### Chapters
 * [Arrays](arrays)
+* [Array and String](array_and_string)
 * [Binary Search Tree](binary_search_tree)
 * [Binary Tree](binary_tree)
 * [Graph](graph)
