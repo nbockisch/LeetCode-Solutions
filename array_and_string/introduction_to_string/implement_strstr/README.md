@@ -7,7 +7,7 @@ Given two strings `needle` and `haystack`, return the index of the first occurre
 
 What should we return when `needle` is an empty string? This is a great question to ask during an interview.
 
-For the purpose of this problem, we will return 0 when `needle` is an empty string. This is consistent to C's [strstr()](https://cplusplus.com/reference/cstring/strstr/) and Java's [indexOf()](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html#indexOf(java.lang.String).
+For the purpose of this problem, we will return 0 when `needle` is an empty string. This is consistent to C's [strstr()](https://cplusplus.com/reference/cstring/strstr/) and Java's [indexOf()](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html#indexOf(java.lang.String)).
 
 **Example 1:**
 ```
